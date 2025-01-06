@@ -1,0 +1,18 @@
+{
+    "Dejan": {
+        "password": "123",
+        "balance": 30.0,
+        "transactions": [
+            "Deposited 100.00",
+            "Withdrew 20.00",
+            "Transferred 50.00 to Harun"
+        ]
+    },
+    "Harun": {
+        "password": "321",
+        "balance": 50.0,
+        "transactions": [
+            "Received 50.00 from Dejan"
+        ]
+    }
+}
